@@ -76,5 +76,3 @@ while True:
         resume_timer()
     elif inp == 'e' or inp == 'q':
         quit()
-    else:
-        continue
